@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://sagarkr666.github.io/nbdev_tutorial"
+  description: "demo nbdev tutorial for deck of cards"
+  repo-branch: main
+  repo-url: "https://github.com/sagarkr666/nbdev_tutorial"
